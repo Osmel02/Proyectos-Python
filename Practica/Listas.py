@@ -18,3 +18,8 @@ diccionario = {
 print(diccionario.values())
 string = str("Mi nombre es Osmel")
 print(len(string))
+set.clear(conjunto2)
+print(conjunto2)
+conjunto.clear()
+print(conjunto)
+
